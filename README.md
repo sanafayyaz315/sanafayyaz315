@@ -6,4 +6,4 @@ Right now that means going deep on transformer fundamentals, quantization, fine-
 
 A personal project I like pointing to: hybrid-rag — a retrieval pipeline that combines dense search (Qdrant) with sparse search (BM25), then layers on hierarchical chunking, cross-encoder reranking, and Redis semantic caching to make the whole thing faster and more accurate.
 
-[Blog](https://sanafayyaz315.github.io/posts/understanding-w8a8-int8-llm-quantization/) · [LinkedIn](https://www.linkedin.com/sanafayyaz315)
+[Blog](https://sanafayyaz315.github.io/posts/understanding-w8a8-int8-llm-quantization/) · [LinkedIn](https://www.linkedin.com/in/sanafayyaz315)
